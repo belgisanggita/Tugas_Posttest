@@ -45,7 +45,7 @@ require_once SYSTEMPATH . 'Config/DotEnv.php';
  * ---------------------------------------------------------------
  * GRAB OUR CODEIGNITER INSTANCE
  * ---------------------------------------------------------------
- *
+ * Belgis Anggita
  * The CodeIgniter class contains the core functionality to make
  * the application run, and does all the dirty work to get
  * the pieces all working together.
