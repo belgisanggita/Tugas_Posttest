@@ -13,3 +13,4 @@ class Pages extends BaseController
         return view('Pages/service');
     }
 }
+
