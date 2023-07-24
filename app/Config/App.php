@@ -14,7 +14,7 @@ class App extends BaseConfig
      *
      * URL to your CodeIgniter root. Typically, this will be your base URL,
      * WITH a trailing slash:
-     *
+     * Andrianto Kusumo Wibowo [32602100028]
      *    http://example.com/
      */
     public string $baseURL = 'http://localhost:8080/';
