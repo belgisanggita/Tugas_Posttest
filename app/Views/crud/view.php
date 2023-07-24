@@ -1,6 +1,6 @@
 <?= $this->extend('layout/template'); ?>
 <?= $this->section('content'); ?>
-
+ 
 <main>
     <div class="tittle">
         <h1>Data Mahasiswa</h1>
